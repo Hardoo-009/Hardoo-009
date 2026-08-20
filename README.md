@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Souhardya Maji
+# 👋 Hey, I'm Souhardya
 
 ### 💻 Full-Stack Developer | CSE Undergraduate | Always Building
 
