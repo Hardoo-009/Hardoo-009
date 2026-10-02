@@ -10,7 +10,6 @@
 
 <a href="https://linkedin.com/in/souhardya-maji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:souhardyamaji.4373@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.hackerrank.com/profile/dseek906"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge" alt="Open to internships" />
 
 <br><br>
@@ -158,16 +157,14 @@ A high-performance React 19 app for exploring GitHub users, built with **Redux T
 
 <div align="center">
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
 </div>
 
 | | |
 |---|---|
 | 🥉 **3rd Place, TCS Tech Day 2026** | College hackathon, 100+ teams. Contributed to a RAG-based Carbon Audit & EU CBAM Compliance Assistant for the steel industry (Gemini, Node.js, Next.js, MongoDB embeddings), worked on the backend and presented the architecture in the final round |
-| 🎓 **Academics** | Overall **CGPA 9.10**, latest **4th semester SGPA 9.02**; 2nd-year college topper |
-| ✅ **HackerRank Certified** | JavaScript (Basic), JavaScript (Intermediate), React (Basic), SQL (Basic) |
-| 🏅 **HackerRank Badges** | C++ (3-star), Python (2-star), 10 Days of JavaScript (4-star) |
+| 🎓 **Academics** | Overall **CGPA 9.10**, latest **4th semester SGPA 9.02** |
 
 ---
 
@@ -178,10 +175,10 @@ A high-performance React 19 app for exploring GitHub users, built with **Redux T
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.shion.dev/api?username=Hardoo-009&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=Hardoo-009&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </td>
 <td>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hardoo-009&theme=catppuccin_mocha&hide_border=true&layout=compact" alt="Top languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hardoo-009&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 </td>
 </tr>
 </table>
@@ -233,7 +230,7 @@ If you're hiring or want to collaborate, I'd love to hear from you.
 
 <br><br>
 
-<a href="https://linkedin.com/in/souhardya-maji"><b>LinkedIn</b></a> &nbsp;•&nbsp; <a href="mailto:souhardyamaji.4373@gmail.com"><b>Email</b></a> &nbsp;•&nbsp; <a href="https://www.hackerrank.com/profile/dseek906"><b>HackerRank</b></a>
+<a href="https://linkedin.com/in/souhardya-maji"><b>LinkedIn</b></a> &nbsp;•&nbsp; <a href="mailto:souhardyamaji.4373@gmail.com"><b>Email</b></a>
 
 <br>
 
