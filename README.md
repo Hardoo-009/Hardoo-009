@@ -190,7 +190,9 @@ A high-performance React 19 app for exploring GitHub users, built with **Redux T
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardoo-009&theme=react-dark&hide_border=true&area=true&custom_title=Souhardya's%20Contribution%20Graph" alt="Contribution graph" />
+**📅 Contribution Calendar**
+
+<img src="https://ghchart.rshah.org/58a6ff/Hardoo-009" alt="Contribution calendar" width="85%" />
 
 </div>
 
@@ -199,11 +201,11 @@ OPTIONAL: contribution snake animation.
 1. Add the file snake.yml at .github/workflows/snake.yml in this repository.
 2. Run it once from the Actions tab (Generate Snake, Run workflow).
 3. Delete these comment markers around the block below.
--->
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/Hardoo-009/Hardoo-009/output/github-snake-dark.svg" alt="Contribution snake" />
 </div>
-
+-->
 
 ---
 
