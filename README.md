@@ -199,11 +199,11 @@ OPTIONAL: contribution snake animation.
 1. Add the file snake.yml at .github/workflows/snake.yml in this repository.
 2. Run it once from the Actions tab (Generate Snake, Run workflow).
 3. Delete these comment markers around the block below.
-
+-->
 <div align="center">
 <img src="https://raw.githubusercontent.com/Hardoo-009/Hardoo-009/output/github-snake-dark.svg" alt="Contribution snake" />
 </div>
--->
+
 
 ---
 
